@@ -10,7 +10,7 @@ window.fakeVideoData = [
       description: 'The best cat video on the internet!',
       thumbnails: {
         default: {
-          url: 'http://www.fndvisions.org/img/cutecat.jpg',
+          url: 'https://i.pinimg.com/736x/bf/6e/d3/bf6ed3d86e0b7bb9225926775a0d8e95--british-accent-british-shorthair-kittens.jpg',
         }
       }
     }
