@@ -6,11 +6,6 @@ var Videos = Backbone.Collection.extend({
     for (var i = 0; i < videos.length; i++) {
       this.models.push(new Video(videos[i]));
     }
-  },
-  render: function() {
-    for (var i = 0; i < videos.length; i++) {
-      this.models[i].render();
-    }
   }
 
 

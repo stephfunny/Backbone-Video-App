@@ -24,7 +24,7 @@ window.fakeVideoData = [
       description: 'Better than the best cat video on the internet!',
       thumbnails: {
         default: {
-          url: 'https://pbs.twimg.com/profile_images/567285191169687553/7kg_TF4l.jpeg',
+          url: 'https://goodmews.org/wp-content/uploads/marmalde-jan2018-thumbnail.jpg',
         }
       }
     }
@@ -38,7 +38,7 @@ window.fakeVideoData = [
       description: 'Watch the ribbon cutting of the first coding bootcamp in space',
       thumbnails: {
         default: {
-          url: 'https://d3c5s1hmka2e2b.cloudfront.net/uploads/topic/image/14/hack_reactor.png',
+          url: 'https://media.glassdoor.com/sqll/843406/hack-reactor-squarelogo-1427844676793.png',
         }
       }
     }
@@ -52,7 +52,7 @@ window.fakeVideoData = [
       description: 'Rock on with JavaScript remixes of today\'s top songs',
       thumbnails: {
         default: {
-          url: 'http://3.bp.blogspot.com/-PTty3CfTGnA/TpZOEjTQ_WI/AAAAAAAAAeo/KeKt_D5X2xo/s1600/js.jpg',
+          url: 'https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png',
         }
       }
     }
@@ -66,7 +66,7 @@ window.fakeVideoData = [
       description: 'JS guru, @McKringleberry teaches tips and tricks for managing JS framework fatigue',
       thumbnails: {
         default: {
-          url: 'https://facebook.github.io/react/img/logo.svg',
+          url: 'https://cdn2.hubspot.net/hubfs/1663056/Images/Blog_Post_Illustrations/Past_Months/January2017/Go-Home-Rest-Be-a-Better-Programmer-thumbnail.png',
         }
       }
     }
