@@ -10,7 +10,7 @@ window.fakeVideoData = [
       description: 'The best cat video on the internet!',
       thumbnails: {
         default: {
-          url: 'https://i.pinimg.com/736x/bf/6e/d3/bf6ed3d86e0b7bb9225926775a0d8e95--british-accent-british-shorthair-kittens.jpg',
+          url: 'http://www.fndvisions.org/img/cutecat.jpg',
         }
       }
     }
@@ -24,11 +24,11 @@ window.fakeVideoData = [
       description: 'Better than the best cat video on the internet!',
       thumbnails: {
         default: {
-          url: 'https://goodmews.org/wp-content/uploads/marmalde-jan2018-thumbnail.jpg',
+          url: 'https://pbs.twimg.com/profile_images/567285191169687553/7kg_TF4l.jpeg',
         }
       }
     }
-  }, {
+  }, {
     etag: 'ujBKBmLk',
     id: {
       videoId: '000003'
@@ -38,11 +38,11 @@ window.fakeVideoData = [
       description: 'Watch the ribbon cutting of the first coding bootcamp in space',
       thumbnails: {
         default: {
-          url: 'https://media.glassdoor.com/sqll/843406/hack-reactor-squarelogo-1427844676793.png',
+          url: 'https://d3c5s1hmka2e2b.cloudfront.net/uploads/topic/image/14/hack_reactor.png',
         }
       }
     }
-  }, {
+  }, {
     etag: 'Nj7xszf8',
     id: {
       videoId: '000004'
@@ -52,11 +52,11 @@ window.fakeVideoData = [
       description: 'Rock on with JavaScript remixes of today\'s top songs',
       thumbnails: {
         default: {
-          url: 'https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png',
+          url: 'http://3.bp.blogspot.com/-PTty3CfTGnA/TpZOEjTQ_WI/AAAAAAAAAeo/KeKt_D5X2xo/s1600/js.jpg',
         }
       }
     }
-  }, {
+  }, {
     etag: 'I2w-7nRI',
     id: {
       videoId: '000005'
@@ -66,7 +66,7 @@ window.fakeVideoData = [
       description: 'JS guru, @McKringleberry teaches tips and tricks for managing JS framework fatigue',
       thumbnails: {
         default: {
-          url: 'https://cdn2.hubspot.net/hubfs/1663056/Images/Blog_Post_Illustrations/Past_Months/January2017/Go-Home-Rest-Be-a-Better-Programmer-thumbnail.png',
+          url: 'https://facebook.github.io/react/img/logo.svg',
         }
       }
     }

@@ -5,7 +5,7 @@ var VideoPlayerView = Backbone.View.extend({
     var html = [
       '<div class="video-player">',
       '<div class="embed-responsive embed-responsive-16by9">',
-      `<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1w8Z0UOXVaY" allowFullScreen></iframe>`,
+      `<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/${this.model.get('id')}" allowFullScreen></iframe>`,
       '</div><div class="video-player-details">',
       `<h3>${this.model.get('snippet').title}</h3>`, //vid title
       `<div>${this.model.get('snippet').description}</div></div></div>` //video description
