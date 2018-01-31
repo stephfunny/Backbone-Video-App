@@ -6,6 +6,10 @@ var VideoListView = Backbone.View.extend({
   //   return this;
   // },
 
+  initialize: function() {
+    this.collection.on('sync', this.render, this);
+  },
+
   render: function() {
     this.$el.children().detach();
     var arr = [];
@@ -15,6 +19,8 @@ var VideoListView = Backbone.View.extend({
     }
     return this.$el;
   }
+
+
 
   //template: templateURL('src/templates/videoList.html')
 
