@@ -1,5 +1,12 @@
 var VideoListEntryView = Backbone.View.extend({
 
+  events: {
+    'click': 'clickHandler'
+  },
+
+  clickHandler: function() {
+    this.model.select();
+  },
 
   render: function() {
     var html = [
